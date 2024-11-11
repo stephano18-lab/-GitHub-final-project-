@@ -6,3 +6,8 @@ input:
   r, annual rate of interest
 output
   simple interest = p*t*r
+
+## License
+
+This project is license 2.0. See the [LICENSE] (LICENSE)
+for more details.
